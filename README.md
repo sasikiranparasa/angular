@@ -1,2 +1,0 @@
-# angularJS
-Angular project
